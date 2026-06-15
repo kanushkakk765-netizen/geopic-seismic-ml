@@ -1,0 +1,8 @@
+geopic_env/
+__pycache__/
+*.pyc
+data/
+node_modules/
+.env
+outputs/*.npy
+welldata/
