@@ -2,7 +2,7 @@
 
 **ONGC GEOPIC Internship 2026 — Programming Division**
 
-Built by Kanushka Katariya | VIT Chennai — B.Tech CSE, 2nd Year
+Built by Kanushka Katariya | Uttaranchal University— B.Tech CSE, 2nd Year
 
 ## Project Overview
 An end-to-end geoscience ML pipeline that:
