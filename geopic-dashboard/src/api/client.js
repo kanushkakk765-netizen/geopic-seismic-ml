@@ -1,4 +1,4 @@
-const BASE = 'http://localhost:8000';
+const BASE = 'https://geopic-seismic-backend.onrender.com';
 
 export const fetchSection = () =>
     fetch(`${BASE}/api/seismic-section`).then(r => r.json());
