@@ -1,0 +1,4 @@
+total_depths,severity_counts,pct_clean,well_name
+5931,"{'RED': 297, 'YELLOW': 2864, 'GREEN': 2770}",46.7,F02-1
+11949,"{'RED': 598, 'YELLOW': 3985, 'GREEN': 7366}",61.6,F03-2
+7939,"{'RED': 397, 'YELLOW': 2489, 'GREEN': 5053}",63.6,F03-4
