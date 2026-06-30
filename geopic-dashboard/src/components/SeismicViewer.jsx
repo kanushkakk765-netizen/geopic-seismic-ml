@@ -51,7 +51,7 @@ export default function SeismicViewer({ showOverlay, method }) {
     }, [section, cluster, showOverlay]);
 
     return (
-        <canvas ref={canvasRef}
-            style={{ width:'100%', border:'1px solid #ccc' }} />
-    );
+    <canvas ref={canvasRef}
+        style={{ width:'100%', border:'1px solid #ccc', imageRendering: 'pixelated' }} />
+);
 }
